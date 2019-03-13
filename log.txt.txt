@@ -1,3 +1,6 @@
 initial text
 
 first commit
+
+This is the second commit
+3rd
